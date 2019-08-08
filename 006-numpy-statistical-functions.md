@@ -15,7 +15,7 @@ ContentName: python-numpy-statistical-functions
 * Median np.median(), The "median" is the "middle" value in the list of numbers
 * Standard deviation np.stdt(), is the measure that quantifies the amount of 
   variation or dispersion of a set of data values
-"""
+
 
 ```
 import numpy as np

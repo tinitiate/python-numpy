@@ -16,7 +16,6 @@ ContentName: numpy-array-operations
 MARKDOWN """
 
 ```
-
 import numpy as np 
 
 
